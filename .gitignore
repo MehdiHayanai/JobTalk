@@ -1,2 +1,6 @@
 env/
 amazonTest/
+*.docx
+.env
+config.json
+data/
